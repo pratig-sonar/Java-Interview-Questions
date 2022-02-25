@@ -25,4 +25,4 @@ I can hear the sound.
 I can hear the sound.
 ````
 <b>Explanation</b>
-As interface has defined identical methods, then it is considered as only one method.
+As both the interface has defined identical methods, then it is considered as only one method.
