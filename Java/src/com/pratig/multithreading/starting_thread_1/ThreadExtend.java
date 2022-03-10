@@ -1,4 +1,4 @@
-package com.pratig.StartingThread;
+package com.pratig.multithreading.starting_thread_1;
 
 class Extender extends Thread{
 	@Override

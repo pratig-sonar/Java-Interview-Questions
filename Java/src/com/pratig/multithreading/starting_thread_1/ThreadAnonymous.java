@@ -1,4 +1,4 @@
-package com.pratig.StartingThread;
+package com.pratig.multithreading.starting_thread_1;
 
 public class ThreadAnonymous {
 	public static void main(String args[]) {
