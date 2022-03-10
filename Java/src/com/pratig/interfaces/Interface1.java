@@ -1,3 +1,4 @@
+package com.pratig.interfaces;
 interface Car{
     public void sound();
   }
