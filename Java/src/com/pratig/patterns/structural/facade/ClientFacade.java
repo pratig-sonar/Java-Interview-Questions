@@ -1,4 +1,4 @@
-package patterns.structural.facade;
+package com.pratig.patterns.structural.facade;
 
 public class ClientFacade {
 
