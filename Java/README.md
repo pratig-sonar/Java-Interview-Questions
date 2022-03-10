@@ -4,6 +4,7 @@ This repository contains all the programming interview questions related to java
 ## Topics
 - [Interface](https://github.com/pratig-sonar/Interview-Questions/tree/master/Java/Interface)
 - [Multithreading](https://github.com/pratig-sonar/Interview-Questions/tree/master/Java/Multithreading)
+- [Design Patterns](https://github.com/pratig-sonar/Interview-Questions/tree/master/Java/Design Patterns)
 
 ## Contributors
 [Pratig Sonar](https://twitter.com/pratigs)
